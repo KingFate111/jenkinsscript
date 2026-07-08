@@ -1,3 +1,3 @@
 #!/bin/bash
-echo " this script for folder creation" 
+echo "This script is for folder creation" 
 mkdir jenkins1
